@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-r3fhc3.karinyoungcounselling.co.uk/sitemap.xml
